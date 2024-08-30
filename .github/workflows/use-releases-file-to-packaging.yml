@@ -221,7 +221,7 @@ on:
           - yourname
 
 env:
-  TZ: America/New_York
+  TZ: Europe/Sofia
 
 jobs:
   build:
