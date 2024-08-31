@@ -102,7 +102,7 @@ auto_kernel="true"
 declare -A tags_list
 
 # Initialize the build device
-make_board="all"
+make_board="e20c"
 
 # Set OpenWrt firmware size (Unit: MiB, boot_mb >= 256, root_mb >= 512)
 boot_mb="256"
